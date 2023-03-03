@@ -1,5 +1,5 @@
-### Hi👋 ###
-
+### Hi 😺 , I'm Kungnang ###
+ 
 🌱 I’m 'software developer' at 'humanica'
 - I current working on [humanica] (https://www.humanica.com/th/)
 
