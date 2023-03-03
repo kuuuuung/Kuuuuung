@@ -1,7 +1,7 @@
 ### Hi👋 ###
 
 🌱 I’m 'software developer' at 'humanica'
-I current working on [humanica] (https://www.humanica.com/th/)
+- I current working on [humanica] (https://www.humanica.com/th/)
 
 
 ### Connect with me ... ###
