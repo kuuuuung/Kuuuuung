@@ -1,9 +1,8 @@
 ### Hi👋 ###
 
-<!--
 🌱 I’m 'software developer' at 'humanica'
 I current working on [humanica] (https://www.humanica.com/th/)
--->
+
 
 ### Connect with me ... ###
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kungnang-nuaywattana-61301b195/)
@@ -17,3 +16,4 @@ I current working on [humanica] (https://www.humanica.com/th/)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
